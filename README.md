@@ -175,7 +175,9 @@ and AWS S3 + Athena cloud analytics.
     <img src="https://img.shields.io/badge/Email-kashif320mm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/muhammad kashif">
+  <a href="www.linkedin.com/in/
+muhammad-kashif-4a1466406
+">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
